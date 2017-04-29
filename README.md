@@ -1,10 +1,4 @@
-[![Build Status](https://travis-ci.org/jpush/jpush-api-java-client.svg?branch=master)](https://travis-ci.org/jpush/jpush-api-java-client)
-[![Dependency Status](https://www.versioneye.com/user/projects/53eff13a13bb06f0bb000518/badge.svg?style=flat)](https://www.versioneye.com/user/projects/53eff13a13bb06f0bb000518)
-[![GitHub version](https://badge.fury.io/gh/jpush%2Fjpush-api-java-client.svg)](http://badge.fury.io/gh/jpush%2Fjpush-api-java-client)
 
-# JPush API Java Library
-
-## 概述
 
 这是 JPush REST API 的 Java 版本封装开发包，是由极光推送官方提供的，一般支持最新的 API 功能。
 
